@@ -1,2 +1,2 @@
 # soundcraft-releases
-Mak Sound — downloads (installers only)
+My Sound — downloads (installers only)
